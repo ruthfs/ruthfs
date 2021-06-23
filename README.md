@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ruth 🍀</h1>
 <h3 align="center">Web Developer</h3>
-<img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="angular"  height="275" width=""/>
+<img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="angular"  height="225" width=""/>
 
 <p align="right">
 
