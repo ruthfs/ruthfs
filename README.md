@@ -28,4 +28,9 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthfs&layout=compact)](https://github.com/ruthfs/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width='250' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthfs&layout=compact username=ruthfs&layout=compact?username=ruthfs&repo=convoychat" />
+</a>
+<a href="https://github.com/ruthfs/github-readme-stats">
+  <img width='585' align="center" src="https://github-readme-stats.vercel.app/api?username=ruthfs&show_icons=true&theme=synthwave" />
+</a>
